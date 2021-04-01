@@ -1,6 +1,6 @@
 # startup_namer
 
-A new Flutter application.
+Lab 2 SSE3151 Azri Dzulqarnain b Azlan / 202374
 
 ## Getting Started
 
